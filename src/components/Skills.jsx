@@ -25,7 +25,7 @@ const Skills = () => {
       icon: "💻",
       skills: [
         { name: "Bicep", level: 95 },
-        { name: "Terraform", level: 85 }
+        { name: "Terraform", level: 90 }
       ]
     }
   ];
