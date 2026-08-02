@@ -31,6 +31,10 @@ const About = () => {
                   <span>Azure DevOps</span>
                 </div>
                 <div className="skill-item">
+                  <span className="skill-icon">🔧</span>
+                  <span>GitHub</span>
+                </div>
+                <div className="skill-item">
                   <span className="skill-icon">🐳</span>
                   <span>Docker & Kubernetes</span>
                 </div>

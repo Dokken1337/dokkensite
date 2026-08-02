@@ -6,18 +6,18 @@ const Skills = () => {
       title: "Cloud Platforms",
       icon: "☁️",
       skills: [
-        { name: "Microsoft Azure", level: 90 },
-        { name: "Microsoft Entra ID", level: 85 },
-        { name: "Azure DevOps", level: 80 }
+        { name: "Microsoft Azure", level: 95 },
+        { name: "Microsoft Azure DevOps", level: 90 },
+        { name: "Microsoft Entra ID", level: 85 }
       ]
     },
     {
       title: "Infrastructure & DevOps",
       icon: "⚙️",
       skills: [
-        { name: "Infrastructure as Code", level: 90 },
-        { name: "CI/CD Pipelines", level: 88 },
-        { name: "Docker & Containers", level: 85 }
+        { name: "Infrastructure as Code", level: 95 },
+        { name: "CI/CD Pipelines", level: 90 },
+        { name: "Docker & Containers", level: 90 }
       ]
     },
     {
