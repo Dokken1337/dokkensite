@@ -43,7 +43,7 @@ const About = () => {
                   <span>Bicep and Terraform</span>
                 </div>
                 <div className="skill-item">
-                  <span className="skill-icon">📜</span>
+                  <span className="skill-icon">🖥️</span>
                   <span>AVD and VDI</span>
                 </div>
               </div>
