@@ -24,7 +24,7 @@ const About = () => {
               <div className="skills-grid">
                 <div className="skill-item">
                   <span className="skill-icon">☁️</span>
-                  <span>Microsoft Azure</span>
+                  <span>Microsoft AD, Entra and Azure</span>
                 </div>
                 <div className="skill-item">
                   <span className="skill-icon">🔧</span>
@@ -40,7 +40,11 @@ const About = () => {
                 </div>
                 <div className="skill-item">
                   <span className="skill-icon">📜</span>
-                  <span>Terraform & Bicep</span>
+                  <span>Bicep and Terraform</span>
+                </div>
+                <div className="skill-item">
+                  <span className="skill-icon">📜</span>
+                  <span>AVD and VDI</span>
                 </div>
               </div>
             </div>
